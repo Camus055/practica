@@ -1,4 +1,62 @@
 
+Gmail
+REDACTAR
+Etiquetas
+Recibidos (11)
+Destacados
+Importantes
+Enviados
+Borradores
+Círculos
+Amigos
+Familia
+Conocidos
+Soy seguidor/a
+Más 
+Hangouts
+
+ 
+ 
+  Más 
+1 de 84  
+ 
+Imprimir todo En una ventana nueva
+estilos 
+Recibidos
+x 
+
+PATRICIA FLORES
+Archivos adjuntos13:51 (hace 0 minutos)
+
+para mí 
+inglés
+español   Traducir mensaje
+Desactivar para: inglés
+
+
+
+
+M. en TIC Patricia Flores
+Desarrollo Web
+patricia_azcanio@hotmail.com
+
+1486502213634_logochico.jpg
+
+Zona de los archivos adjuntos
+	
+Haz clic aquí para Responder o para Reenviar
+0,18 GB (1%) ocupados de 15 GB
+Administrar
+Condiciones - Privacidad
+Última actividad de la cuenta: dentro de 1 minuto
+Información detallada
+Foto de perfil de PATRICIA F
+PATRICIA F
+Añadir a círculos
+
+Mostrar detalles
+
+
 
  
 body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
@@ -99,10 +157,9 @@ border-right: : 2px solid black;
 	 font: 110% sans-serif;
 	 width: 80%;
 	}
-.bordo{
-	border-right: black 5px;
-}
+
 -----
+
 .image-box-wrapper {
   width:642px;
   margin:50px auto;
@@ -177,4 +234,73 @@ border-right: : 2px solid black;
 .image-box:hover .image-container {margin-top:-160px}
 .image-details .more:hover {background-color:black}
 
+.estilo 
+{
+	height: 3px;
+	width: 30%
+	background-color: black;
+	border: none;
+	
+}
 
+.ima{
+	border: 2px solid grey;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.piePag
+
+{
+
+background-color: grey;
+text-align: right;
+font: bold;
+font-size: 50;
+color: #
+}
+
+.imgportafolio
+{
+width: 30%;
+}
+.htmltxt
+{
+background-color: grey;
+height: 25px;
+width: 600px;
+text-align: left;
+color: #FFFFFF;
+}
+
+
+.csstxt
+{
+background-color: grey;
+height: 25px;
+width: 400px;
+text-align: left;
+color: #FFFFFF;
+}
+.jstxt
+{
+background-color: grey;
+height: 25px;
+width: 200px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.imgportafolio
+{
+width: 60%;
+}
+
+.imga {
+border: 2px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 500px;
+overflow: hidden;
+}
